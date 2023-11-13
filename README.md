@@ -1,1 +1,3 @@
-#Something not interesting
+- Howdy! This is Bek writing. 
+- Currently I am studying CS at Ala-Too University.
+- I created this profile to get proficient in CS.
